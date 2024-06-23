@@ -1,4 +1,4 @@
-import sys  # check
+import sys
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QPushButton, QVBoxLayout, QHBoxLayout, QWidget,
     QComboBox, QLineEdit, QLabel, QDateEdit, QTableWidget, QTableWidgetItem, QHeaderView
